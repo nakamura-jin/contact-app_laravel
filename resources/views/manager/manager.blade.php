@@ -48,8 +48,6 @@
   }
 </style>
 
-
-
 @section('title', '管理システム')
 @section('contact')
 <form action="/manager/search" method="get" class="search">
